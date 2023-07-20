@@ -1,6 +1,8 @@
-# app3
+# ExpenseTracker
 
 A new Flutter project.
+Already comes with 2 unnecessary expenses which can be deleted.
+The app shows a graph that categorises the expenditures into 4 groups.
 
 ## Getting Started
 
